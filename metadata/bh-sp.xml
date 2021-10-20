@@ -1,0 +1,24 @@
+<EntityDescriptor ID="_ad1b0fbf-cad4-4fe5-ac59-ee2138a69ad5" entityID="urn:benefithub:passport" 
+  xmlns="urn:oasis:names:tc:SAML:2.0:metadata">
+  <SPSSODescriptor WantAssertionsSigned="true" AuthnRequestsSigned="true" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol">
+    <KeyDescriptor use="signing">
+      <KeyInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
+        <X509Data>
+          <X509Certificate>
+MIIFuTCCA6GgAwIBAgIJANEE+64OrxiUMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNV BAYTAlVTMQswCQYDVQQIDAJGTDEOMAwGA1UEBwwFVGFtcGExETAPBgNVBAoMCE1v dGl2YW5vMRAwDgYDVQQLDAdVQVQgU1NPMSIwIAYDVQQDDBltb3RjcnQyNTZ1YXQu bW90aXZhbm8uY29tMB4XDTE2MDEyNTE3MTgyMloXDTI2MDEyNDE3MTgyMlowczEL MAkGA1UEBhMCVVMxCzAJBgNVBAgMAkZMMQ4wDAYDVQQHDAVUYW1wYTERMA8GA1UE CgwITW90aXZhbm8xEDAOBgNVBAsMB1VBVCBTU08xIjAgBgNVBAMMGW1vdGNydDI1 NnVhdC5tb3RpdmFuby5jb20wggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoIC AQCjdMFmr4tjljb7NGkex81p+f9VpW6nib6c7Oihd7mWcLePfv2QmW3P0gB4qC5v oFMDv4UT7rKpUrIKvxJDG4L2UYqal4jSFW0HarDV2lDo03+cWoTKUgzsJ1j4MDFs M100N9nuawuokkAZqpDpQeuLVDgHnaeIBUkkWQjtOvBU+0HYS/JKL44mOrDIjHaa LE14nIiI1CFoFrw2Xhpz0YPt4QgOGEQ8edJOFwFIKjANu8GudYypbt/cKpsCmaVX KsZuVYVejjQPiuQVlQfA00A6HWD8RcvR9dso/aQqYUgMuFApT+wn86+wcy/b06r2 Kwihbrtox6kxX0aiSluNvCN3KfuCUhcTdx+w+Tk0aRAvzHHdrV7Ulyg9AMkMMpuF aSJdZxb+RZ/VwsZs1frXg2fCEu6F0pstFkG38cEFiLtTKiHlmRKJEi0zwjKY/K0p q6u8lnZkWAiWWHZlECJTIOBgvCQx+Kgnnb7w2xmi5Q+ICHAuVHy4W79SBTrM+Feh Ho7RPFqShLntIuBN4eEPSvFql+PuLtnCT4CJA8vuWvU7csdBBaAhtHUu50G2gHC3 3wFp4QMCen8l3LqWTCJiyuIx/1m6oMoSSPQA6vLs+K8UJHKC8HWKLhpg59v4CEP0 ay3Lrszev8CdNPZTzN3p5Rj2gkFs3QGAL9QaNUxQnCxkrwIDAQABo1AwTjAdBgNV HQ4EFgQUxx+i4cy+6gieeaBFzWvJvjyZxiEwHwYDVR0jBBgwFoAUxx+i4cy+6gie eaBFzWvJvjyZxiEwDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQsFAAOCAgEAMfcu WZD8lxaJVt1oHZ6VNXNVvN1CRfCGm17fkgUP24bxEE/HooIhTx/I/gOjUjUQWi3h NvdRVWc89sHtkwWQox4UDTpCgqiwhwE3se/vaCdy45TTL+EPVGMluNaUSLBTNlBt fok36XFe3qzgBpsEmsGodx9SLglyhNin/+LGfEXqmVg/ymzq8+LFoU4J0di3YoWb 3R3iuPsTbjXTnUhU2wKulZBhNE+HbDOSY3hi1D7CW/KqNy0DdQLpAfwTynECs+aL uJ0swTFmyjXL/OmJcn7y6WkyXhWMuzVpccHvAbZ7D0KfeCdpELrSrbqd8uxk2prH crAAtYKtuWSs2XBRJDngFEwjeTjpJaZqc8MNUUfd/eF2hnuQh5v50WwawFOq1LXm E0HBGj7mkYtFc4XcEqnpFNpdyO6NEd6WTqka3AJHOJOtksOiOMEUEG3+EgeQcx69 QRF+2KIqarmelap74c58lSlq1EmlexoOVeVpB+VTShLbg5InM/441m0aqobGLzxe ekjM9CSbXWmppixNECYdXYxrBQkI1P/OIYexyRKMVjTEKzVG65TITwazLRh/PAHc dKi2eItNkw6PG3ZmZQ839g7m8ervRNHtEbI6xkSUhvqTuf0kEyQG9xf+yROl1P2G oSWZO5mDJsA/Giev2cE2Zve3x7cf8XTxCSZa928=
+          </X509Certificate>
+        </X509Data>
+      </KeyInfo>
+    </KeyDescriptor>
+    <KeyDescriptor use="encryption">
+      <KeyInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
+        <X509Data>
+          <X509Certificate>
+MIIFuTCCA6GgAwIBAgIJANEE+64OrxiUMA0GCSqGSIb3DQEBCwUAMHMxCzAJBgNV BAYTAlVTMQswCQYDVQQIDAJGTDEOMAwGA1UEBwwFVGFtcGExETAPBgNVBAoMCE1v dGl2YW5vMRAwDgYDVQQLDAdVQVQgU1NPMSIwIAYDVQQDDBltb3RjcnQyNTZ1YXQu bW90aXZhbm8uY29tMB4XDTE2MDEyNTE3MTgyMloXDTI2MDEyNDE3MTgyMlowczEL MAkGA1UEBhMCVVMxCzAJBgNVBAgMAkZMMQ4wDAYDVQQHDAVUYW1wYTERMA8GA1UE CgwITW90aXZhbm8xEDAOBgNVBAsMB1VBVCBTU08xIjAgBgNVBAMMGW1vdGNydDI1 NnVhdC5tb3RpdmFuby5jb20wggIiMA0GCSqGSIb3DQEBAQUAA4ICDwAwggIKAoIC AQCjdMFmr4tjljb7NGkex81p+f9VpW6nib6c7Oihd7mWcLePfv2QmW3P0gB4qC5v oFMDv4UT7rKpUrIKvxJDG4L2UYqal4jSFW0HarDV2lDo03+cWoTKUgzsJ1j4MDFs M100N9nuawuokkAZqpDpQeuLVDgHnaeIBUkkWQjtOvBU+0HYS/JKL44mOrDIjHaa LE14nIiI1CFoFrw2Xhpz0YPt4QgOGEQ8edJOFwFIKjANu8GudYypbt/cKpsCmaVX KsZuVYVejjQPiuQVlQfA00A6HWD8RcvR9dso/aQqYUgMuFApT+wn86+wcy/b06r2 Kwihbrtox6kxX0aiSluNvCN3KfuCUhcTdx+w+Tk0aRAvzHHdrV7Ulyg9AMkMMpuF aSJdZxb+RZ/VwsZs1frXg2fCEu6F0pstFkG38cEFiLtTKiHlmRKJEi0zwjKY/K0p q6u8lnZkWAiWWHZlECJTIOBgvCQx+Kgnnb7w2xmi5Q+ICHAuVHy4W79SBTrM+Feh Ho7RPFqShLntIuBN4eEPSvFql+PuLtnCT4CJA8vuWvU7csdBBaAhtHUu50G2gHC3 3wFp4QMCen8l3LqWTCJiyuIx/1m6oMoSSPQA6vLs+K8UJHKC8HWKLhpg59v4CEP0 ay3Lrszev8CdNPZTzN3p5Rj2gkFs3QGAL9QaNUxQnCxkrwIDAQABo1AwTjAdBgNV HQ4EFgQUxx+i4cy+6gieeaBFzWvJvjyZxiEwHwYDVR0jBBgwFoAUxx+i4cy+6gie eaBFzWvJvjyZxiEwDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQsFAAOCAgEAMfcu WZD8lxaJVt1oHZ6VNXNVvN1CRfCGm17fkgUP24bxEE/HooIhTx/I/gOjUjUQWi3h NvdRVWc89sHtkwWQox4UDTpCgqiwhwE3se/vaCdy45TTL+EPVGMluNaUSLBTNlBt fok36XFe3qzgBpsEmsGodx9SLglyhNin/+LGfEXqmVg/ymzq8+LFoU4J0di3YoWb 3R3iuPsTbjXTnUhU2wKulZBhNE+HbDOSY3hi1D7CW/KqNy0DdQLpAfwTynECs+aL uJ0swTFmyjXL/OmJcn7y6WkyXhWMuzVpccHvAbZ7D0KfeCdpELrSrbqd8uxk2prH crAAtYKtuWSs2XBRJDngFEwjeTjpJaZqc8MNUUfd/eF2hnuQh5v50WwawFOq1LXm E0HBGj7mkYtFc4XcEqnpFNpdyO6NEd6WTqka3AJHOJOtksOiOMEUEG3+EgeQcx69 QRF+2KIqarmelap74c58lSlq1EmlexoOVeVpB+VTShLbg5InM/441m0aqobGLzxe ekjM9CSbXWmppixNECYdXYxrBQkI1P/OIYexyRKMVjTEKzVG65TITwazLRh/PAHc dKi2eItNkw6PG3ZmZQ839g7m8ervRNHtEbI6xkSUhvqTuf0kEyQG9xf+yROl1P2G oSWZO5mDJsA/Giev2cE2Zve3x7cf8XTxCSZa928=
+          </X509Certificate>
+        </X509Data>
+      </KeyInfo>
+    </KeyDescriptor>
+    <AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://passport.benefithub.info/saml/post/ac" index="0" isDefault="true"/>
+  </SPSSODescriptor>
+</EntityDescriptor>

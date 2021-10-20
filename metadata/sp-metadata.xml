@@ -1,0 +1,24 @@
+<EntityDescriptor ID="_ad1b0fbf-cad4-4fe5-ac59-ee2138a69ad5" entityID="urn:benefithub:passpor"
+  xmlns="urn:oasis:names:tc:SAML:2.0:metadata">
+  <SPSSODescriptor WantAssertionsSigned="false" AuthnRequestsSigned="true" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol">
+    <KeyDescriptor use="signing">
+      <KeyInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
+        <X509Data>
+          <X509Certificate>
+MIIDqzCCApOgAwIBAgIJALPVq5CoD+1VMA0GCSqGSIb3DQEBCwUAMGwxCzAJBgNV BAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRYwFAYDVQQHDA1TYW4gRnJhbmNp c2NvMRAwDgYDVQQKDAdKYW5reUNvMR4wHAYDVQQDDBVUZXN0IFNlcnZpY2UgUHJv dmlkZXIwHhcNMTkwNzA3MjM0NzAxWhcNMzkwNzAyMjM0NzAxWjBsMQswCQYDVQQG EwJVUzETMBEGA1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UEBwwNU2FuIEZyYW5jaXNj bzEQMA4GA1UECgwHSmFua3lDbzEeMBwGA1UEAwwVVGVzdCBTZXJ2aWNlIFByb3Zp ZGVyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwHDga8ALIJuUeGqO KCy3qwzsLjMOL5GXFtZHj+zt/hV17IiA7Oj6UZCRng1bGIjjYeIpgUQuutrR/Jic wOr6A2xDrdNcGeDWznevrkgz/IKNgCwl1REBhIQTvnMNd9RRsJtrsFB+XXuHO9zv cLSWmrvtFhaCXyCEA+tBO/kg/50KRqbyDB6Ujv7UEhJX2YBzoE0+Pb1aTiNzKmY0 6zvK7ayBaDtItUM2KUIA9VwFxBll4JsotsaLDy0Gyle2nVsYb/7H4qqLSZKUHRVg XPUylRZOBauhRJwJZofrZBmAyEox4bFQhzQSF0BguOoi+U8sJpRef1aG+jpnL12x PSZEuwIDAQABo1AwTjAdBgNVHQ4EFgQU5PKx0qxkYImwT15dOJfwJeSCFRcwHwYD VR0jBBgwFoAU5PKx0qxkYImwT15dOJfwJeSCFRcwDAYDVR0TBAUwAwEB/zANBgkq hkiG9w0BAQsFAAOCAQEAeXd+qYWdyG2WMJPOth+reFcwMz1sS3CkX8qFx+JBsFHj yVxCnsaHNmJhw3VFQFHXmdxwSRjV+OgcyFNx/mkCMpGg6/kpkSsThUP7SnT36H3g oQohtiMN3u27iOSXUA0u9JVhci0h93KG/A+6zof3cjl00tPyXVfTbo+O6Ji0gUZ0 Ta2rnrVmewhR6r31M7AV1WVNOhlF3qVw5sH/mJ5dsOiIm+PYiBbuA41cli9u+4gf 4jaTx7Kf/NJs3CvM/tWNn0/F0+2v1yiNoM8tId00nY8iIgojjh49ydzgI/e1Ha/z Tmp0Zzm45a6xUBpkO8RNboq5PtK82DMoBqb3PP/cag==
+          </X509Certificate>
+        </X509Data>
+      </KeyInfo>
+    </KeyDescriptor>
+    <KeyDescriptor use="encryption">
+      <KeyInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
+        <X509Data>
+          <X509Certificate>
+MIIDqzCCApOgAwIBAgIJALPVq5CoD+1VMA0GCSqGSIb3DQEBCwUAMGwxCzAJBgNV BAYTAlVTMRMwEQYDVQQIDApDYWxpZm9ybmlhMRYwFAYDVQQHDA1TYW4gRnJhbmNp c2NvMRAwDgYDVQQKDAdKYW5reUNvMR4wHAYDVQQDDBVUZXN0IFNlcnZpY2UgUHJv dmlkZXIwHhcNMTkwNzA3MjM0NzAxWhcNMzkwNzAyMjM0NzAxWjBsMQswCQYDVQQG EwJVUzETMBEGA1UECAwKQ2FsaWZvcm5pYTEWMBQGA1UEBwwNU2FuIEZyYW5jaXNj bzEQMA4GA1UECgwHSmFua3lDbzEeMBwGA1UEAwwVVGVzdCBTZXJ2aWNlIFByb3Zp ZGVyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwHDga8ALIJuUeGqO KCy3qwzsLjMOL5GXFtZHj+zt/hV17IiA7Oj6UZCRng1bGIjjYeIpgUQuutrR/Jic wOr6A2xDrdNcGeDWznevrkgz/IKNgCwl1REBhIQTvnMNd9RRsJtrsFB+XXuHO9zv cLSWmrvtFhaCXyCEA+tBO/kg/50KRqbyDB6Ujv7UEhJX2YBzoE0+Pb1aTiNzKmY0 6zvK7ayBaDtItUM2KUIA9VwFxBll4JsotsaLDy0Gyle2nVsYb/7H4qqLSZKUHRVg XPUylRZOBauhRJwJZofrZBmAyEox4bFQhzQSF0BguOoi+U8sJpRef1aG+jpnL12x PSZEuwIDAQABo1AwTjAdBgNVHQ4EFgQU5PKx0qxkYImwT15dOJfwJeSCFRcwHwYD VR0jBBgwFoAU5PKx0qxkYImwT15dOJfwJeSCFRcwDAYDVR0TBAUwAwEB/zANBgkq hkiG9w0BAQsFAAOCAQEAeXd+qYWdyG2WMJPOth+reFcwMz1sS3CkX8qFx+JBsFHj yVxCnsaHNmJhw3VFQFHXmdxwSRjV+OgcyFNx/mkCMpGg6/kpkSsThUP7SnT36H3g oQohtiMN3u27iOSXUA0u9JVhci0h93KG/A+6zof3cjl00tPyXVfTbo+O6Ji0gUZ0 Ta2rnrVmewhR6r31M7AV1WVNOhlF3qVw5sH/mJ5dsOiIm+PYiBbuA41cli9u+4gf 4jaTx7Kf/NJs3CvM/tWNn0/F0+2v1yiNoM8tId00nY8iIgojjh49ydzgI/e1Ha/z Tmp0Zzm45a6xUBpkO8RNboq5PtK82DMoBqb3PP/cag==
+          </X509Certificate>
+        </X509Data>
+      </KeyInfo>
+    </KeyDescriptor>
+    <AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://samlp-sp-kahuna.herokuapp.com/ac" index="0" isDefault="true"/>
+  </SPSSODescriptor>
+</EntityDescriptor>
